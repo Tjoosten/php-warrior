@@ -4,12 +4,11 @@ namespace PHPWarrior\Units;
 
 /**
  * Class Warrior
- * 
+ *
  * @package PHPWarrior\Units
  */
 class Warrior extends Base
 {
-
     /**
      * Class constructor.
      *

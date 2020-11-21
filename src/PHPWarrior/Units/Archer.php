@@ -2,10 +2,9 @@
 
 namespace PHPWarrior\Units;
 
-
 /**
  * Class Archer
- * 
+ *
  * @package PHPWarrior\Units
  */
 class Archer extends Base

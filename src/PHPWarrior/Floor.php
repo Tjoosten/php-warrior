@@ -4,12 +4,11 @@ namespace PHPWarrior;
 
 /**
  * Class Floor
- * 
+ *
  * @package PHPWarrior
  */
 class Floor
 {
-
     public $width = 0;
     public $height = 0;
     public $units = [];

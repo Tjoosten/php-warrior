@@ -8,7 +8,7 @@ use \Gettext\Translator;
 
 /**
  * Class Runner
- * 
+ *
  * @package PHPWarrior
  */
 class Runner

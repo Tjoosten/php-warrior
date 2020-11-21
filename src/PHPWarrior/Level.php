@@ -4,14 +4,13 @@ namespace PHPWarrior;
 
 /**
  * Class Level
- * 
+ *
  * @package PHPWarrior
  */
 class Level
 {
     public $profile;
     public $number;
-
     public $description;
     public $tip;
     public $clue;

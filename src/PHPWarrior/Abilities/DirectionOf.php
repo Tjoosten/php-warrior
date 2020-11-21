@@ -4,7 +4,6 @@ namespace PHPWarrior\Abilities;
 
 class DirectionOf extends Base
 {
-
     public $is_sense = true;
 
     public function description()

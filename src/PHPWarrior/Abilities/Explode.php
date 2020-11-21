@@ -4,7 +4,6 @@ namespace PHPWarrior\Abilities;
 
 class Explode extends Base
 {
-
     public $time;
 
     public function description()

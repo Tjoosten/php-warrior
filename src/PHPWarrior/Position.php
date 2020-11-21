@@ -9,7 +9,6 @@ namespace PHPWarrior;
  */
 class Position
 {
-
     public $floor;
     public static $DIRECTIONS = ['north', 'east', 'south', 'west'];
     public static $RELATIVE_DIRECTIONS = ['forward', 'right', 'backward', 'left'];

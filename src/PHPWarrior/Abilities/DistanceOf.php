@@ -2,10 +2,8 @@
 
 namespace PHPWarrior\Abilities;
 
-
 class DistanceOf extends Base
 {
-
     public $is_sense = true;
 
     public function description()

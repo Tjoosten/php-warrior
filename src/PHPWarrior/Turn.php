@@ -4,19 +4,18 @@ namespace PHPWarrior;
 
 /**
  * Class Turn
- * 
+ *
  * @package PHPWarrior
  */
 class Turn
 {
-
     public $action = null;
     public $senses = [];
     public $abilities;
 
     /**
      * Turn constructor.
-     * 
+     *
      * @param $abilities
      */
     public function __construct($abilities)

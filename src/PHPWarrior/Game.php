@@ -11,7 +11,6 @@ namespace PHPWarrior;
  */
 class Game
 {
-
     public $profile;
 
     public function start()

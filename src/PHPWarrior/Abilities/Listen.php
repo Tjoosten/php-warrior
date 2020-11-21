@@ -2,10 +2,8 @@
 
 namespace PHPWarrior\Abilities;
 
-
 class Listen extends Base
 {
-
     public $is_sense = true;
 
     public function description()
@@ -23,5 +21,4 @@ class Listen extends Base
         }
         return $map;
     }
-
 }

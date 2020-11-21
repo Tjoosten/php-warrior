@@ -3,12 +3,11 @@ namespace PHPWarrior;
 
 /**
  * Class PlayerGenerator
- * 
+ *
  * @package PHPWarrior
  */
 class PlayerGenerator
 {
-
     public $level;
     public $previous_level;
 

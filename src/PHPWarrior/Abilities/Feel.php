@@ -4,7 +4,6 @@ namespace PHPWarrior\Abilities;
 
 class Feel extends Base
 {
-
     public $is_sense = true;
 
     public function description()

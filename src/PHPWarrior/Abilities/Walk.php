@@ -4,7 +4,6 @@ namespace PHPWarrior\Abilities;
 
 class Walk extends Base
 {
-
     public function description()
     {
         return __("Move in the given direction (forward by default).");

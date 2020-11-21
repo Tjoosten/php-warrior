@@ -2,7 +2,6 @@
 
 namespace PHPWarrior\Abilities;
 
-
 class Rescue extends Base
 {
     public function description()

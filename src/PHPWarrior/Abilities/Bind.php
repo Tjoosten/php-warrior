@@ -2,7 +2,6 @@
 
 namespace PHPWarrior\Abilities;
 
-
 class Bind extends Base
 {
     public function description()
